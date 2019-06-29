@@ -10,6 +10,21 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../../LBR/a.styled.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>teify lbr</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../../../MV.LBR/a.styled.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -51,7 +66,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Users/ttasovac/Development/lexica-latina/MV.LBR/TEIfier.xsl</String>
+                                    <String>file:/Users/ttasovac/Development/lexica-latina/LBR/TEIfier.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
