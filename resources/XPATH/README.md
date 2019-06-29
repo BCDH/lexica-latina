@@ -144,7 +144,10 @@ oXygen also offers an XPath/XQuery Builder -- a separate window pane where you c
 To launch the XPath Builder:
 
 1. go to the main menu and select Window > Show View > XPath/XQuery Builder; or
-2. click the Switch to XPath Builder view button which looks like this `//★` and is positioned in the right-hand corner of the XPath input.  
+2. click the Switch to XPath Builder view button which looks like this `//★` and is positioned in the right-hand corner of the XPath input, or
+3. in the newer versions of oXygen, click on the icon next to the XPath input field and select the "Switch to XPath Builder View" from the dropdown menu, like this:
+
+    ![Снимок экрана 2019-06-29 в 6.42.59](https://i.imgur.com/arU4Ntu.png)
 
 Once you launch the XPath Builder View, you should be seeing something like this:
 
